@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color:teal;
+    width: 100%;
+    height: 80px;
+}
+.logo{
+    background-color: rgb(93, 24, 24);
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.menu{
+    width: 60%;
+    height: 100%;
+    background-color: red;
+    float: right;
+}
+.banner{
+    width: 95%;
+    height: 400px;
+    /* background-color:green; */
+    margin: auto;
+}
+.b_cont{
+    width: 50%;
+    height: 90%;
+    background-color: gray;
+    float: left;
+}
+.b_img{
+    width: 50%;
+    height: 90%;
+    background-color:green;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.b_trix{
+    width: 100%;
+    height:10%;
+    background-color: black;
+}
+.service{
+    width: calc(95% - 60px);
+    height: calc(600px - 100px);
+    background-color: gray;
+    margin: auto;
+    padding: 50px 30px ;
+}
+.box1{
+    width: 33.33%;
+    height: 250px;
+    background-color: rgb(9, 62, 27);
+    float: left;
+
+}
+.box2{
+    width: 33.33%;
+    height: 250px;
+    background-color: rgb(118, 150, 29);
+    float: left;
+}
+.box3{
+    width: 33.33%;
+    height: 250px;
+    background-color: rgb(137, 12, 108);
+    float: left;
+}
+.box4{
+    width: 33.33%;
+    height: 250px;
+    background-color: rgb(33, 28, 98);
+    float: left;
+}
+.box5{
+    width: 33.33%;
+    height: 250px;
+    background-color: rgb(47, 130, 86);
+    float: left;
+}
+.box6{
+    width: 33.33%;
+    height: 250px;
+    background-color: rgb(65, 29, 29);
+    float: left;
+}
+.footer{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(20, 16, 16);
+}
